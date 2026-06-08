@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Life does not get better by chance, it gets better by change." — Jim Rohn
+> "Older men declare war. But it is youth that must fight and die." — Herbert Hoover
 
-_Last updated: 2026-06-07_
+_Last updated: 2026-06-08_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

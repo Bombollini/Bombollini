@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Fear is a natural reaction to moving closer to the truth." — Pema Chodron
+> "Lust, anger and greed are the three gates to self-destructive hell." — Bhagavad Gita
 
-_Last updated: 2026-06-16_
+_Last updated: 2026-06-17_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

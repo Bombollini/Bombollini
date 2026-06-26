@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "She who loves roses must be patient and not cry out when she is pierced by thorns." — Kenji Miyazawa
+> "This is the most simple and basic component of life: our struggles determine our successes." — Mark Manson
 
-_Last updated: 2026-06-25_
+_Last updated: 2026-06-26_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

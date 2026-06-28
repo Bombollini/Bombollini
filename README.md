@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Believe in your infinite potential. Your only limitations are those you set upon yourself." — Roy T. Bennett
+> "Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti
 
-_Last updated: 2026-06-27_
+_Last updated: 2026-06-28_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

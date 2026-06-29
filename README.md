@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti
+> "When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar
 
-_Last updated: 2026-06-28_
+_Last updated: 2026-06-29_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

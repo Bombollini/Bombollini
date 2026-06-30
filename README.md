@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar
+> "It's not whether you get knocked down, its whether you get back up." — Vince Lombardi
 
-_Last updated: 2026-06-29_
+_Last updated: 2026-06-30_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

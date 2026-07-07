@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "All we have to decide is what to do with the time that is given to us." — J.R.R. Tolkien
+> "The art of being wise is knowing what to overlook." — William James
 
-_Last updated: 2026-07-06_
+_Last updated: 2026-07-07_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

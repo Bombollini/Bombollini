@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Your spirit is the true shield." — Morihei Ueshiba
+> "Let the beauty of what you love be what you do." — Rumi
 
-_Last updated: 2026-08-05_
+_Last updated: 2026-08-07_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Knowing is not enough, we must apply. Willing is not enough, we must do." — Bruce Lee
+> "Knowing yourself is the beginning of all wisdom." — Aristotle
 
-_Last updated: 2026-08-10_
+_Last updated: 2026-08-11_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

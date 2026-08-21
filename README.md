@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Simple words, repeated daily, can change your life." — Maxime Lagace
+> "The idea of ourselves is our escape from the fact of what we really are." — Jiddu Krishnamurti
 
-_Last updated: 2026-08-20_
+_Last updated: 2026-08-21_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

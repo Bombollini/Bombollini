@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves." — Kamal Ravikant
+> "Faults are yours to fix, not to curse." — Colin Powell
 
-_Last updated: 2026-09-11_
+_Last updated: 2026-09-12_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

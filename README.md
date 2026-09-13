@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Faults are yours to fix, not to curse." — Colin Powell
+> "Conscience is a man's compass." — Vincent van Gogh
 
-_Last updated: 2026-09-12_
+_Last updated: 2026-09-13_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

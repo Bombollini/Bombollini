@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Conscience is a man's compass." — Vincent van Gogh
+> "Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry." — Celestine Chua
 
-_Last updated: 2026-09-13_
+_Last updated: 2026-09-14_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

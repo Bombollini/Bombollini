@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry." — Celestine Chua
+> "Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability." — John Wooden
 
-_Last updated: 2026-09-14_
+_Last updated: 2026-09-15_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

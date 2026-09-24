@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "The smallest act of kindness is worth more than the greatest intention." — Kahlil Gibran
+> "Consider the rights of others before your own feelings, and the feelings of others before your own rights." — John Wooden
 
-_Last updated: 2026-09-23_
+_Last updated: 2026-09-24_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

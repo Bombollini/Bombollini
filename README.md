@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Life is filled with secrets. You can't learn them all at once." — Dan Brown
+> "When you repeat a mistake, it is not a mistake anymore: it is a decision." — Paulo Coelho
 
-_Last updated: 2026-11-01_
+_Last updated: 2026-11-02_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

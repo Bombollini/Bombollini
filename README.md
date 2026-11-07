@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Perpetual optimism is a force multiplier." — Colin Powell
+> "It's your road, and yours alone, others may walk it with you, but no one can walk it for you." — Rumi
 
-_Last updated: 2026-11-06_
+_Last updated: 2026-11-07_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

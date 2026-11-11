@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now." — Ralph Marston
+> "Fear of death is fear of the Unknown." — Adi Da Samraj
 
-_Last updated: 2026-11-10_
+_Last updated: 2026-11-11_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

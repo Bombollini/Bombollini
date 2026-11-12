@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Fear of death is fear of the Unknown." — Adi Da Samraj
+> "You don't have to control your thoughts; you just have to stop letting them control you." — Dan Millman
 
-_Last updated: 2026-11-11_
+_Last updated: 2026-11-12_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "You don't have to control your thoughts; you just have to stop letting them control you." — Dan Millman
+> "A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will." — James Allen
 
-_Last updated: 2026-11-12_
+_Last updated: 2026-11-13_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

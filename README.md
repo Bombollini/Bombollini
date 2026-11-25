@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you." — Bob Proctor
+> "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." — Rumi
 
-_Last updated: 2026-11-24_
+_Last updated: 2026-11-25_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 

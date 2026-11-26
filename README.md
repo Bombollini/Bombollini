@@ -28,9 +28,9 @@ Web Development • Mobile Apps • POS Systems • Business Automation
 ### 🧭 Philosophy of the Day
 
 <!-- PHILOSOPHY_OF_THE_DAY:START -->
-> "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it." — Rumi
+> "Follow the man who seeks the truth; run from the man who has found it." — Vaclav Havel
 
-_Last updated: 2026-11-25_
+_Last updated: 2026-11-26_
 <!-- PHILOSOPHY_OF_THE_DAY:END -->
 <br>
 
